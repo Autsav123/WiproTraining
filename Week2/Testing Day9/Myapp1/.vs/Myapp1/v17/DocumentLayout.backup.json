@@ -1,0 +1,856 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\views\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\views\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\controllers\\catagoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\controllers\\catagoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\migrations\\20250818094000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\migrations\\20250818094000_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\catagories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\catagories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\models\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\mvcexample\\data\\ecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB08EF-DC6E-4B63-8570-96FCED77FEDD}|MvcExample\\MvcExample.csproj|solutionrelative:mvcexample\\data\\ecomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\data1\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\data1\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\data\\migrations\\20250818044723_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\data\\migrations\\20250818044723_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\migrations\\20250818055815_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\migrations\\20250818055815_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\data\\migrations\\20250818045733_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\data\\migrations\\20250818045733_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\myapp1\\myapp1\\data\\migrations\\20250818045151_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D3EAFA-772D-473C-8E65-D77A9252EF2E}|Myapp1\\Myapp1.csproj|solutionrelative:myapp1\\data\\migrations\\20250818045151_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Views\\Catagories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcExample\\Views\\Catagories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Views\\Catagories\\Index.cshtml",
+              "RelativeToolTip": "MvcExample\\Views\\Catagories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:14:28.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcExample\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MvcExample\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:45:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MvcExample\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:45:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatagoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Controllers\\CatagoriesController.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Controllers\\CatagoriesController.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Controllers\\CatagoriesController.cs*",
+              "RelativeToolTip": "MvcExample\\Controllers\\CatagoriesController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:43:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250818094000_First.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Migrations\\20250818094000_First.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Migrations\\20250818094000_First.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Migrations\\20250818094000_First.cs",
+              "RelativeToolTip": "MvcExample\\Migrations\\20250818094000_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:40:01.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:57.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:57.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:56.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:56.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Program.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Program.cs",
+              "RelativeToolTip": "MvcExample\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:42:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Index.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Index.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Delete.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:04.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Delete.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Details.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Details.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Edit.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Edit.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:03.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Create.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:32:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Catagories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Catagories\\Create.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Catagories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:32:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ecomcontext.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Data\\Ecomcontext.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Data\\Ecomcontext.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Data\\Ecomcontext.cs",
+              "RelativeToolTip": "MvcExample\\Data\\Ecomcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:58:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Myapp1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:57:50.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\appsettings.json",
+              "RelativeToolTip": "MvcExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T08:42:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Applicationcontext.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data1\\Applicationcontext.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Data1\\Applicationcontext.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data1\\Applicationcontext.cs",
+              "RelativeToolTip": "Myapp1\\Data1\\Applicationcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:28:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Models\\Catagory.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Models\\Catagory.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Models\\Catagory.cs",
+              "RelativeToolTip": "MvcExample\\Models\\Catagory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:44:37.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MvcExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\MvcExample\\Models\\Product.cs",
+              "RelativeToolTip": "MvcExample\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T08:44:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:07:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Model\\Category.cs",
+              "RelativeToolTip": "Myapp1\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:23:41.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Model\\Product.cs",
+              "RelativeToolTip": "Myapp1\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:24:12.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\appsettings.json",
+              "RelativeDocumentMoniker": "Myapp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\appsettings.json",
+              "RelativeToolTip": "Myapp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T04:34:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:07:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:07:24.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:07:24.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:07:24.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:07:24.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:07:25.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:07:23.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Myapp1\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:07:23.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Myapp1\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Myapp1\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:07:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250818055815_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Migrations\\20250818055815_fourth.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Migrations\\20250818055815_fourth.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Migrations\\20250818055815_fourth.cs",
+              "RelativeToolTip": "Myapp1\\Migrations\\20250818055815_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:58:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250818045733_second.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818045733_second.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Data\\Migrations\\20250818045733_second.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818045733_second.cs",
+              "RelativeToolTip": "Myapp1\\Data\\Migrations\\20250818045733_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:57:33.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250818045151_first.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818045151_first.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Data\\Migrations\\20250818045151_first.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818045151_first.cs",
+              "RelativeToolTip": "Myapp1\\Data\\Migrations\\20250818045151_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:51:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Program.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Program.cs",
+              "RelativeToolTip": "Myapp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:34:30.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250818044723_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818044723_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Myapp1\\Data\\Migrations\\20250818044723_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Myapp1\\Myapp1\\Data\\Migrations\\20250818044723_InitialCreate.cs",
+              "RelativeToolTip": "Myapp1\\Data\\Migrations\\20250818044723_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T04:47:23.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

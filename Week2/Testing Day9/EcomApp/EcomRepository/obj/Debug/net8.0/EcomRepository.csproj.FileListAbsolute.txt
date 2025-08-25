@@ -1,0 +1,17 @@
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\EcomRepository.deps.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\EcomRepository.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\EcomRepository.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\Module.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\Module.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.csproj.AssemblyReference.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.AssemblyInfoInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.AssemblyInfo.cs
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.csproj.CoreCompileInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepo.8F1FDC60.Up2Date
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\refint\EcomRepository.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\ref\EcomRepository.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\bin\Debug\net8.0\EcomRepository.runtimeconfig.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\EcomRepository\obj\Debug\net8.0\EcomRepository.genruntimeconfig.cache

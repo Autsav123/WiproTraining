@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\demo mathlibrary_testing using  nunit\\demo mathlibrary_testing using  nunit\\demo mathlibrary_testing using  nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|solutionrelative:demo mathlibrary_testing using  nunit\\demo mathlibrary_testing using  nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86321AB2-571D-4B71-9D62-65845F862AA0}|MathLibrary.Tests\\MathLibrary.Tests.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\demo mathlibrary_testing using  nunit\\mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86321AB2-571D-4B71-9D62-65845F862AA0}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\demo mathlibrary_testing using  nunit\\demo mathlibrary_testing using  nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|solutionrelative:demo mathlibrary_testing using  nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\demo mathlibrary_testing using  nunit\\demo mathlibrary_testing using  nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E5B785-8BFB-4A8C-B628-4EF3DB38E021}|Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj|solutionrelative:demo mathlibrary_testing using  nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo MathLibrary_Testing Using  Nunit",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj",
+              "RelativeDocumentMoniker": "Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj",
+              "RelativeToolTip": "Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T21:32:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:02:30.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Calculator.cs",
+              "RelativeDocumentMoniker": "Demo MathLibrary_Testing Using  Nunit\\Calculator.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Calculator.cs",
+              "RelativeToolTip": "Demo MathLibrary_Testing Using  Nunit\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:48:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Program.cs",
+              "RelativeDocumentMoniker": "Demo MathLibrary_Testing Using  Nunit\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\Demo MathLibrary_Testing Using  Nunit\\Demo MathLibrary_Testing Using  Nunit\\Program.cs",
+              "RelativeToolTip": "Demo MathLibrary_Testing Using  Nunit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T20:36:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

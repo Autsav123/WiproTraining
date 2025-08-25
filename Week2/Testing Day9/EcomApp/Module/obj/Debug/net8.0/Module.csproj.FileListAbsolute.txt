@@ -1,0 +1,11 @@
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\bin\Debug\net8.0\Module.deps.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\bin\Debug\net8.0\Module.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\bin\Debug\net8.0\Module.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.AssemblyInfoInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.AssemblyInfo.cs
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.csproj.CoreCompileInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\refint\Module.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\Module.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\EcomApp\Module\obj\Debug\net8.0\ref\Module.dll

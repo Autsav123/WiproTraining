@@ -1,0 +1,11 @@
+﻿namespace Test1.cs
+{
+    [TestClass]
+    public sealed class Test1
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
+    }
+}

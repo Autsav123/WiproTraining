@@ -1,0 +1,8 @@
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\bin\Debug\LinqCommandApp.exe.config
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\bin\Debug\LinqCommandApp.exe
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\bin\Debug\LinqCommandApp.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\obj\Debug\LinqCommandApp.csproj.AssemblyReference.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\obj\Debug\LinqCommandApp.csproj.CoreCompileInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\obj\Debug\LinqCommandApp.exe
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\obj\Debug\LinqCommandApp.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\LinqCommandApp\LinqCommandApp\obj\Debug\LinqCommandApp.exe.config

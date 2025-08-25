@@ -1,0 +1,14 @@
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\bin\Debug\net8.0\Demo_Calculator_inC-.exe
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\bin\Debug\net8.0\Demo_Calculator_inC-.deps.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\bin\Debug\net8.0\Demo_Calculator_inC-.runtimeconfig.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\bin\Debug\net8.0\Demo_Calculator_inC-.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\bin\Debug\net8.0\Demo_Calculator_inC-.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.AssemblyInfoInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.AssemblyInfo.cs
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.csproj.CoreCompileInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\refint\Demo_Calculator_inC-.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\Demo_Calculator_inC-.genruntimeconfig.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\Demo_Calculator_inC-\Demo_Calculator_inC-\obj\Debug\net8.0\ref\Demo_Calculator_inC-.dll

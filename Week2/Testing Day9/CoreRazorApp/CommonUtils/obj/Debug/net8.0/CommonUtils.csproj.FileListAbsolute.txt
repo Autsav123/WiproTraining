@@ -1,0 +1,11 @@
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.deps.json
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfoInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfo.cs
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.csproj.CoreCompileInputs.cache
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\refint\CommonUtils.dll
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.pdb
+C:\Users\UTSAV DUBEY\Documents\wiprotraining\Week2\Testing Day9\CoreRazorApp\CommonUtils\obj\Debug\net8.0\ref\CommonUtils.dll

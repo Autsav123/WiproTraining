@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\data\\migrations\\20250806204824_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\data\\migrations\\20250806204824_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|solutionrelative:threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\threading\\threading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|solutionrelative:threading\\threading.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\threading\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|solutionrelative:threading\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3420A5DC-BF2F-48A2-860A-89DC3BB75570}|CommonUtils\\CommonUtils.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\commonutils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3420A5DC-BF2F-48A2-860A-89DC3BB75570}|CommonUtils\\CommonUtils.csproj|solutionrelative:commonutils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\modelexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\modelexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\threading\\threadingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1938C2-70AD-48B8-830D-D4D0AEAFA01D}|Threading\\Threading.csproj|solutionrelative:threading\\threadingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\modelexample\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D130E079-5C8B-4DAF-A9AD-0313D8D2DB65}|ModelExample\\ModelExample.csproj|solutionrelative:modelexample\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\data\\migrations\\20250802175355_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\data\\migrations\\20250802175355_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\corerazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\corerazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|c:\\users\\utsav dubey\\documents\\wiprotraining\\week2\\testing day9\\corerazorapp\\corerazorapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4648D3D3-7885-4ADE-A0F3-17EA083E0CE9}|CoreRazorApp\\CoreRazorApp.csproj|solutionrelative:corerazorapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "ModelExample\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T00:04:23.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250806204824_second.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\20250806204824_second.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Data\\Migrations\\20250806204824_second.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\20250806204824_second.cs",
+              "RelativeToolTip": "ModelExample\\Data\\Migrations\\20250806204824_second.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T20:48:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Program.cs",
+              "RelativeDocumentMoniker": "Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Program.cs",
+              "RelativeToolTip": "Threading\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:40:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Models\\Patients.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Models\\Patients.cs",
+              "RelativeToolTip": "ModelExample\\Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:32:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:39:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModelExample.csproj",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\ModelExample.csproj",
+              "RelativeDocumentMoniker": "ModelExample\\ModelExample.csproj",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\ModelExample.csproj",
+              "RelativeToolTip": "ModelExample\\ModelExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T17:59:07.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\htmlpage.html",
+              "RelativeDocumentMoniker": "ModelExample\\htmlpage.html",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\htmlpage.html",
+              "RelativeToolTip": "ModelExample\\htmlpage.html",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-05T04:49:57.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelExample\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "ModelExample\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T00:09:02.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "ModelExample\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "ModelExample\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T02:57:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\appsettings.json",
+              "RelativeDocumentMoniker": "ModelExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\appsettings.json",
+              "RelativeToolTip": "ModelExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:48:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ModelExample\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:49:29.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ModelExample\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:47:29.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Threading.csproj",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Threading.csproj",
+              "RelativeDocumentMoniker": "Threading\\Threading.csproj",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Threading.csproj",
+              "RelativeToolTip": "Threading\\Threading.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T18:42:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Publisher.cs",
+              "RelativeDocumentMoniker": "Threading\\Publisher.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\Publisher.cs",
+              "RelativeToolTip": "Threading\\Publisher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:43:00.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Program.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Program.cs",
+              "RelativeToolTip": "ModelExample\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:39:44.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ModelExample\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:56:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CommonUtils\\Class1.cs",
+              "RelativeDocumentMoniker": "CommonUtils\\Class1.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CommonUtils\\Class1.cs",
+              "RelativeToolTip": "CommonUtils\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T21:46:50.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CoreRazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Program.cs",
+              "RelativeToolTip": "CoreRazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T20:50:36.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "ModelExample\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\MongoDBSettings.cs",
+              "RelativeToolTip": "ModelExample\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:30:04.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ModelExample\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ModelExample\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-05T04:57:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ModelExample\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ModelExample\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-04T09:25:06.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ModelExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ModelExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T09:25:09.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ModelExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ModelExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T09:25:11.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ModelExample\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ModelExample\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T09:25:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreRazorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\appsettings.json",
+              "RelativeToolTip": "CoreRazorApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:47:27.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ModelExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\ModelExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ModelExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:56:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-02T23:14:45.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ThreadingExample.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\ThreadingExample.cs",
+              "RelativeDocumentMoniker": "Threading\\ThreadingExample.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\Threading\\ThreadingExample.cs",
+              "RelativeToolTip": "Threading\\ThreadingExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T23:20:04.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250802175355_first.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Data\\Migrations\\20250802175355_first.cs",
+              "RelativeDocumentMoniker": "CoreRazorApp\\Data\\Migrations\\20250802175355_first.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Data\\Migrations\\20250802175355_first.cs",
+              "RelativeToolTip": "CoreRazorApp\\Data\\Migrations\\20250802175355_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:53:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CoreRazorApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "CoreRazorApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwCAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T21:29:30.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CoreRazorApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CoreRazorApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-01T21:28:35.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CoreRazorApp.csproj",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\CoreRazorApp.csproj",
+              "RelativeDocumentMoniker": "CoreRazorApp\\CoreRazorApp.csproj",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\CoreRazorApp.csproj",
+              "RelativeToolTip": "CoreRazorApp\\CoreRazorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T20:35:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreRazorApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\UTSAV DUBEY\\Documents\\wiprotraining\\Week2\\Testing Day9\\CoreRazorApp\\CoreRazorApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CoreRazorApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T22:08:55.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
